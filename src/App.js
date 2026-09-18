@@ -12,7 +12,7 @@ import NoPageFound from './component/NoPageFound/NoPageFound';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter  basename='react-final-project'>
+      <BrowserRouter  basename="/react-final-project">
         <Header />
         <div className='container'>
 
