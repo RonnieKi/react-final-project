@@ -1,5 +1,5 @@
 
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter , Route, Routes } from 'react-router-dom';
 import './App.css';
 import Home from './component/home/Home';
 import Header from './component/header/header';
@@ -12,7 +12,7 @@ import NoPageFound from './component/NoPageFound/NoPageFound';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
         <Header />
         <div className='container'>
 
@@ -24,7 +24,7 @@ function App() {
         </div>
         <Footer />
 
-      </BrowserRouter>
+      </HashRouter>
     </div>
 
   );
