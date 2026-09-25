@@ -90,4 +90,4 @@ If you would like to contribute to the project, please feel free to fork the rep
 
 ### Contact
 
-If you have any questions or suggestions, please feel free to contact me at madhav5448@gmail.com
+If you have any questions or suggestions, please feel free to contact me at rkina@umich.edu
