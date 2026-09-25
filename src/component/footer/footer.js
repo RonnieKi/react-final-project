@@ -4,8 +4,8 @@ import "./footer.css";
 const footer = () => {
   return (
     <div className='footer'>
-      <div>Movie App</div>
-      <div>&copy 2022, Movie,Inc,or its affilates</div>
+      <div>MovieFlix</div>
+      <div>&copy;  rkina@umich.edu 2026</div>
     </div>
   )
 }
